@@ -34,7 +34,7 @@ h6 {
 #page-home {
   height: 100vh;
   background: url(../assets/home-background.svg) no-repeat;
-  background-position: 41vw bottom;
+  background-position: 41.2vw bottom;
 }
 
 #page-home .content {
@@ -83,6 +83,7 @@ h6 {
   font-size: 24px;
   line-height: 38px;
   margin-top: 24px;
+  color: #6c6c80;
 }
 
 #page-home main a {
